@@ -1,6 +1,6 @@
 <h1 align="center">Site web de Dymensia v3</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version- 3.0-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-3.0-blue.svg" />
   <a href="https://github.com/Dymensia/DymensiaWebv3/blob/main/LICENSE" target="_blank">
     <img alt="License: MTI" src="https://img.shields.io/badge/License-MTI-yellow.svg" />
   </a>
