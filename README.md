@@ -13,7 +13,7 @@
 
 ## Informations
 
-👤 **Développé par Dany01000110**
+👤 **Développé par Dany01000110 & Fleco (Vaness')**
 
 * 🌐 Site web: https://dymensia.fr/
 * 🐦 Twitter: [@Dymensia_](https://twitter.com/Dymensia_)
